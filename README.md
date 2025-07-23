@@ -1,4 +1,6 @@
-## Hi there 👋
+- 这个号仅用于记笔记，有事请联系 *zhaiwangyuxuan@bjtu.edu.cn*，或查看我的[GitHub账号](https://github.com/zhaiwangyuxuan)
+- This account is only used for taking notes. If you need to contact me, please reach out to *zhaiwangyuxuan@bjtu.edu.cn*, or check my [GitHub account](https://github.com/zhaiwangyuxuan).
+
 
 <!--
 **zwyx-note/zwyx-note** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
